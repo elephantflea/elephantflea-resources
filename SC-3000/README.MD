@@ -1,0 +1,1 @@
+See https://blog.elephantflea.pw/2021/04/sega-sc-3000-flash-cartridge.html for details
