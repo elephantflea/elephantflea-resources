@@ -1,0 +1,1 @@
+See https://blog.elephantflea.pw/2023/02/tempest-programmable-tv-game-composite.html for details
