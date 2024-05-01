@@ -39,5 +39,5 @@ to be applied with the `-n` argument.
 xdelta3 -n -d -s Doom.exe <diff file> Doom_patched.exe
 ```
 
-By default, the game installs `Doom.exe` to `\Windows\Start Menu\Doom.exe`. It can be moved
-you `DoomPDA` directory, and a shortcut can be placed elsewhere instead (eg in the `Games` folder).
+By default, the game installs `Doom.exe` to `\Windows\Start Menu\Doom.exe`. It can then be moved
+to the `DoomPDA` directory, and a shortcut can be placed elsewhere instead (eg in the `Games` folder).
