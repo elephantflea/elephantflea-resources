@@ -1,2 +1,2 @@
 # elephantflea-resources
-https://blog.elephantflea.pw/ files
+https://elephantflea.pw/ files
